@@ -1,0 +1,19 @@
+task_id,task_name,task_type,owner,status,delay_probability,expected_slip_ratio,risk_level
+T08,Insurer API integration,Integration,Kabir,Not Started,0.952,1.35,High
+T04,Quote engine integration,Integration,Kabir,In Progress,0.856,1.296,High
+T18,Go-live preparation,Integration,Kabir,Not Started,0.745,1.335,High
+T09,Payment gateway integration,Integration,Neha,Not Started,0.484,1.248,Medium
+T05,Broker login & KYC module,Backend,Rohan,In Progress,0.367,1.153,Medium
+T11,Regulatory compliance review,Compliance,Meera,Not Started,0.268,1.171,Low
+T16,UAT with brokers,QA,Meera,Not Started,0.217,1.16,Low
+T15,Security testing (VAPT),QA,Meera,Not Started,0.125,1.117,Low
+T01,Requirements & BRD,Docs,Meera,Done,0.106,1.049,Low
+T10,Document upload & e-sign,Backend,Rohan,Not Started,0.079,1.023,Low
+T07,Commission calculation module,Backend,Neha,Not Started,0.037,1.021,Low
+T03,UI wireframes,Frontend,Aisha,Done,0.037,0.9,Low
+T02,Broker onboarding API design,Backend,Rohan,Done,0.036,0.987,Low
+T06,Broker dashboard UI,Frontend,Aisha,In Progress,0.027,0.9,Low
+T12,Quote comparison UI,Frontend,Aisha,Not Started,0.026,0.924,Low
+T17,Training docs,Docs,Neha,Not Started,0.024,0.899,Low
+T14,Integration testing,QA,Aisha,Not Started,0.022,1.003,Low
+T13,Reports module,Backend,Neha,Not Started,0.019,0.979,Low
