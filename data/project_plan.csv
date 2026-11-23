@@ -15,5 +15,5 @@ T13,Reports module,Backend,Neha,Low,T07,Not Started,0,5,0,0,3,5,9
 T14,Integration testing,QA,Aisha,High,T08;T09;T12,Not Started,0,5,0,1,5,8,14
 T15,Security testing (VAPT),QA,Meera,High,T10;T11,Not Started,0,3,1,0,4,6,12
 T16,UAT with brokers,QA,Meera,High,T13;T14,Not Started,0,4,1,1,5,8,15
-T17,Training docs,Docs,Neha,Low,,Not Started,0,4,0,0,2,3,6
+T17,Training docs,Docs,Neha,Low,T12,Not Started,0,4,0,0,2,3,6
 T18,Go-live preparation,Integration,Kabir,High,T15;T16;T17,Not Started,0,6,1,0,3,4,8
